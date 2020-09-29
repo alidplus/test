@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    hghg
+    Aidin
   </div>
 </template>
 
