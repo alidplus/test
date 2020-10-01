@@ -148,7 +148,9 @@
           </li>
         </ul>
       </div>
-      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">
+        Primary
+      </button>
     </nav>
   </div>
 </template>
