@@ -15,7 +15,7 @@
     </div>
     <div class="row mt-5">
       <div class="col">
-        <div class="card">
+        <div class="card extra-rounded">
           <img src="media_1348435068314" class="card-img-top" alt="media_1348435068314">
           <div class="card-body">
             <p class="card-text">
@@ -25,7 +25,7 @@
         </div>
       </div>
       <div class="col">
-        <div class="card">
+        <div class="card extra-rounded">
           <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
           <div class="card-body">
             <p class="card-text">
@@ -35,7 +35,7 @@
         </div>
       </div>
       <div class="col">
-        <div class="card">
+        <div class="card extra-rounded">
           <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
           <div class="card-body">
             <p class="card-text">
@@ -45,7 +45,7 @@
         </div>
       </div>
       <div class="col">
-        <div class="card">
+        <div class="card extra-rounded">
           <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
           <div class="card-body">
             <p class="card-text">
@@ -55,8 +55,17 @@
         </div>
       </div>
     </div>
-    <div />
-  </div>
+    <div class="row mt-5">
+      <div class="col border p-2 text-center">
+        <p>قوانين و مقررات</p>
+      </div>
+      <div class="col border p-2 text-center">
+        <p>سوالات متداول</p>
+      </div>
+      <div class="col border p-2 text-center">
+        <p>تماس با ما</p>
+      </div>
+    </div>
   </div>
 </template>
 
