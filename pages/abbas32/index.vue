@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <nav class="navbar navbar-light bg-light">
       <a class="navbar-brand">
         <font-awesome-icon :icon="['fa', 'sign-in-alt']" />
@@ -8,13 +8,14 @@
       </a>
     </nav>
     <div>
-      <h1 style="text-align:center;">
+      <h1 class="my-5 text-center">
         عنوان سایت
+        <img src="https://seeklogo.com/images/T/Test-logo-37F8EF5B80-seeklogo.com.png" alt="logo" width="50">
       </h1>
     </div>
-    <div class="row">
-      <div class="col-2 border">
-        <div class="card" style="width: 18rem;">
+    <div class="row mt-5">
+      <div class="col">
+        <div class="card">
           <img src="media_1348435068314" class="card-img-top" alt="media_1348435068314">
           <div class="card-body">
             <p class="card-text">
@@ -23,8 +24,8 @@
           </div>
         </div>
       </div>
-      <div class="col-2 border">
-        <div class="card" style="width: 18rem;">
+      <div class="col">
+        <div class="card">
           <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
           <div class="card-body">
             <p class="card-text">
@@ -33,8 +34,8 @@
           </div>
         </div>
       </div>
-      <div class="col-2 border">
-        <div class="card" style="width: 18rem;">
+      <div class="col">
+        <div class="card">
           <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
           <div class="card-body">
             <p class="card-text">
@@ -43,8 +44,8 @@
           </div>
         </div>
       </div>
-      <div class="col-2 border">
-        <div class="card" style="width: 18rem;">
+      <div class="col">
+        <div class="card">
           <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
           <div class="card-body">
             <p class="card-text">

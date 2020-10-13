@@ -29,12 +29,8 @@ export default {
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
     // https://go.nuxtjs.dev/eslint
-<<<<<<< HEAD
     ['@nuxtjs/eslint-module', { fix: true }],
     '@nuxtjs/fontawesome'
-=======
-    ['@nuxtjs/eslint-module', { fix: true }]
->>>>>>> bec6f12fa2ebeaa9922a9ed50c163c13c320d787
   ],
  
   fontawesome: {

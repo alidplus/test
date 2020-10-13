@@ -10,14 +10,13 @@
       <div class="col-3 border">
         <side-bar />
       </div>
-<<<<<<< HEAD
     </div>
-=======
-      <button type="button" class="btn btn-primary">
-        Primary
-      </button>
+    =======
+    <button type="button" class="btn btn-primary">
+      Primary
+    </button>
     </nav>
->>>>>>> bec6f12fa2ebeaa9922a9ed50c163c13c320d787
+    >>>>>>> bec6f12fa2ebeaa9922a9ed50c163c13c320d787
   </div>
 </template>
 
