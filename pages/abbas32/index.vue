@@ -15,22 +15,22 @@
     </div>
     <div class="row mt-5">
       <div class="col">
-        <div class="card extra-rounded">
+        <div class="card m-3 extra-rounded">
           <img src="/valiball.png" class="card-img-top" alt="valiball">
         </div>
       </div>
       <div class="col">
-        <div class="card extra-rounded">
+        <div class="card m-3 extra-rounded">
           <img src="/body bilding.png" class="card-img-top" alt="body bilding">
         </div>
       </div>
       <div class="col">
-        <div class="card extra-rounded">
+        <div class="card m-3 extra-rounded">
           <img src="/ball.jpg" class="card-img-top" alt="footbal">
         </div>
       </div>
       <div class="col">
-        <div class="card extra-rounded">
+        <div class="card m-3 extra-rounded">
           <img src="/Mountain climbing.jpg" class="card-img-top" alt="Mountain climbing">
         </div>
       </div>
