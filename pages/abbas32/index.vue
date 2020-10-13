@@ -16,54 +16,40 @@
     <div class="row mt-5">
       <div class="col">
         <div class="card extra-rounded">
-          <img src="media_1348435068314" class="card-img-top" alt="media_1348435068314">
-          <div class="card-body">
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
-            </p>
-          </div>
+          <img src="/valiball.png" class="card-img-top" alt="valiball">
         </div>
       </div>
       <div class="col">
         <div class="card extra-rounded">
-          <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
-          <div class="card-body">
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
-            </p>
-          </div>
+          <img src="/body bilding.png" class="card-img-top" alt="body bilding">
         </div>
       </div>
       <div class="col">
         <div class="card extra-rounded">
-          <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
-          <div class="card-body">
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
-            </p>
-          </div>
+          <img src="/ball.jpg" class="card-img-top" alt="footbal">
         </div>
       </div>
       <div class="col">
         <div class="card extra-rounded">
-          <img src="Untitled-1" class="card-img-top" alt="Untitled-1">
-          <div class="card-body">
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
-            </p>
-          </div>
+          <img src="/Mountain climbing.jpg" class="card-img-top" alt="Mountain climbing">
         </div>
       </div>
     </div>
-    <div class="row mt-5">
-      <div class="col border p-2 text-center">
-        <p>قوانين و مقررات</p>
+    <div class="d-flex justify-content-center mt-5">
+      <div class="border p-2 text-center ">
+        <button type="button" class="btn btn-light">
+          قوانين و مقررات
+        </button>
       </div>
-      <div class="col border p-2 text-center">
-        <p>سوالات متداول</p>
+      <div class="border p-2 text-center">
+        <button type="button" class="btn btn-light">
+          سوالات متداول
+        </button>
       </div>
-      <div class="col border p-2 text-center">
-        <p>تماس با ما</p>
+      <div class="border p-2 text-center">
+        <button type="button" class="btn btn-light">
+          تماس با ما
+        </button>
       </div>
     </div>
   </div>
