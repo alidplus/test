@@ -1,11 +1,13 @@
 <template>
   <div class="container">
     <nav class="navbar navbar-light bg-light">
-      <a class="navbar-brand">
-        <font-awesome-icon :icon="['fa', 'sign-in-alt']" />
-        <i class="fas fa-sign-in-alt" />
-        ورود
-      </a>
+      <div class="d-flex flex-row align-items-center">
+        <a class="navbar-brand">
+          <font-awesome-icon :icon="['fa', 'sign-in-alt']" />
+          <i class="fas fa-sign-in-alt" />
+          ورود
+        </a>
+      </div>
     </nav>
     <div>
       <h1 class="my-5 text-center">
@@ -35,22 +37,18 @@
         </div>
       </div>
     </div>
-    <div class="d-flex justify-content-center mt-5">
-      <div class="border p-2 text-center ">
-        <button type="button" class="btn btn-light">
-          قوانين و مقررات
-        </button>
-      </div>
-      <div class="border p-2 text-center">
-        <button type="button" class="btn btn-light">
-          سوالات متداول
-        </button>
-      </div>
-      <div class="border p-2 text-center">
-        <button type="button" class="btn btn-light">
-          تماس با ما
-        </button>
-      </div>
+    <div class="d-flex justify-content-center  mt-5">
+      <button type="button" class="btn btn-light w-25">
+        قوانين و مقررات
+      </button>
+
+      <button type="button" class="btn btn-light w-25">
+        سوالات متداول
+      </button>
+
+      <button type="button" class="btn btn-light w-25">
+        تماس با ما
+      </button>
     </div>
   </div>
 </template>
