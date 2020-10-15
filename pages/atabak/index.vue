@@ -16,6 +16,7 @@
       >
         <span class="navbar-toggler-icon" />
       </button>
+
       <div id="navbarNavAltMarkup" class="collapse navbar-collapse">
         <div class="navbar-nav">
           <a class="nav-link active" href="https://www.google.com/">Home <span class="sr-only">(current)</span></a>
