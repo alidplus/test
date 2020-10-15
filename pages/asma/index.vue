@@ -6,7 +6,7 @@
     <p style="color:red;">
       Paraghraph
     </p>
-    <p> <i> خوش آمدید</i></p>
+    <p> <i> خوش آمدید 2</i></p>
     <br>
     <img src="1.jpg" width="200" height="200" alt="عکس مورد نظر در دسترس نیست">
     <br>
