@@ -12,6 +12,13 @@
     <img src="1.jpg" width="200" height="200" alt="عکس مورد نظر در دسترس نیست">
     <br>
     <a class="nav-link active" hrf="h7ttps://www.w3schools.com">کلیک کنید</a>
+
+    <form action="">
+      <label for="fname"> first name:</label> <br>
+      <input id="fname" type="text" name="fname" value=""><br>
+      <label for="lname"> last name:</label> <br>
+      <input id="lname" type="text" name="lname" value="">
+    </form>
   </div>
 </template>
 
