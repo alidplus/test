@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <nav class="navbar navbar-light bg-light">
+    <nav class="navbar navbar-light bg-light flex-row-reverse">
       <div class="d-flex flex-row align-items-center">
         <div class="dropdown">
           <a
